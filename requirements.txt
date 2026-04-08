@@ -1,0 +1,5 @@
+google-cloud-aiplatform
+google-cloud-bigquery
+pandas
+python-dotenv
+streamlit
