@@ -2,6 +2,8 @@
 
 An intelligent, multi-agent AI system that bridges the gap between raw database storage and actionable business intelligence. Users can ask questions in plain English, and the system will autonomously write SQL, query BigQuery, draw visual charts, and generate strategic business reports.
 
+### Deployed Link: https://genai-multi-agent-301960417340.us-central1.run.app/
+
 ## 🚀 The Vision
 Data is useless if business development and sales teams can't easily access and understand it. This project replaces complex SQL dashboards with a conversational AI Manager. It allows anyone from SDRs to Executives to pull real-time revenue gaps, identify high-ticket items, and generate cold-outreach strategies directly from the database.
 
